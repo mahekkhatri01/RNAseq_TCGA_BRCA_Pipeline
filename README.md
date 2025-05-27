@@ -76,7 +76,7 @@ RNAseq_TCGA_BRCA_Pipeline/
 
 ## ⚠️Notes
 
--   Due to memory limits (\~16 GB), we sampled 20 tumor and 20 normal
+-   Due to memory limits (\~16 GB), we sampled 100 tumor and 100 normal
     tissues.
 
 -   Ensure `BiocManager`, `TCGAbiolinks`, and `DESeq2` are installed
